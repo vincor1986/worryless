@@ -15,7 +15,7 @@ const Nav = () => {
     >
       <Link route="/">
         <a className="item">
-          <Image src={logo.src} alt="logo" />
+          <Image src="https://i.ibb.co/sqQ7PDP/logo.png" alt="logo" />
         </a>
       </Link>
       <Menu.Menu
