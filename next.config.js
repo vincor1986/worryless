@@ -1,3 +1,4 @@
 module.exports = {
-    assetPrefix: '/worryless/',
+    basePath: '/worryless',
+    assetPrefix: '/worryless/'
 }
