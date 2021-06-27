@@ -80,7 +80,7 @@ const Faith = () => {
           </Card.Content>
           <Card.Content>
             <Image
-              src={prayer.src}
+              src="https://i.ibb.co/B30k0dr/prayer.png"
               size="large"
               floated="left"
               style={{ borderRadius: "50%" }}
@@ -113,7 +113,7 @@ const Faith = () => {
           </Card.Content>
           <Card.Content>
             <Image
-              src={worship.src}
+              src="https://i.ibb.co/51qVzd0/worship.png"
               size="large"
               floated="left"
               style={{ borderRadius: "50%" }}
@@ -149,7 +149,7 @@ const Faith = () => {
           </Card.Content>
           <Card.Content>
             <Image
-              src={book.src}
+              src="https://i.ibb.co/njhSg1d/book.png"
               size="large"
               floated="left"
               style={{ borderRadius: "50%" }}
