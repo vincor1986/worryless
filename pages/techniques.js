@@ -208,7 +208,7 @@ class Techniques extends Component {
             <Item>
               <Item.Image
                 size="large"
-                src={worryTree.src}
+                src="https://i.ibb.co/fMqJXRL/worry-tree.jpg"
                 style={{ border: "1px solid lightgrey" }}
               />
               <Item.Content verticalAlign="middle">
