@@ -81,7 +81,7 @@ const problemSolving = () => {
           </a>
         </h4>
         <Image
-          src={worryTree.src}
+          src="https://i.ibb.co/fMqJXRL/worry-tree.jpg"
           fluid
           style={{ border: "4px solid #a7e9dc", borderRadius: "20px" }}
         />
