@@ -18,7 +18,7 @@ class Index extends Component {
     return (
       <Layout>
         <Container>
-          <Image src={sky.src} fluid />
+          <Image src="https://i.ibb.co/2PQNGrL/sky.png" fluid />
         </Container>
         <br />
         <br />
@@ -252,7 +252,7 @@ class Index extends Component {
                 worry itself becomes a problem and I just end up feeling out of
                 control and upset by it all"
               </h3>
-              <Image src={cycle.src} fluid />
+              <Image src="https://i.ibb.co/rF8Xbgq/worry-cycle.png" fluid />
             </Segment>
           </Container>
           <br />
