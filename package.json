@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node server.js",
-    "build": "next build && next export"
+    "build": "npm run eslint && next build",
+    "export": "next export"
   },
   "keywords": [],
   "author": "",
